@@ -222,5 +222,12 @@
     "6283181340900",
     "6281263477371",
     "628812437675"
-  ]
+  ],
+  "users": {
+    "kayzen": {
+      "password": "93ed0485ff955d12c7bccb7461635020976acc9cff5e3c2ba00a1858f12b8e14",
+      "role": "developer"
+    }
+  },
+  "history": []
 }
